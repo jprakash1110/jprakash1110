@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working as Senior Site Reliability Engineer and Data Operations Engineer with 4+ years of experience in designing, automating, and maintaining scalable cloud infrastructures.<br>• Expertise in AWS, Kubernetes, Terraform, Docker, CI/CD, and monitoring tools (New Relic, ELK, Splunk).<br>• Experience in implementing SRE best practices, ensuring reliability, availability, and performance of cloud-native applications.<br>• Proficient in SLI/SLO definitions, error budgeting, and proactive incident management to optimize system performance.
+• Working as Senior Site Reliability Engineer and Data Operations Engineer with 4+ years of experience in designing, automating, and maintaining scalable cloud infrastructures.<br>• Expertise in AWS, Kubernetes, Terraform, Docker, CI/CD, and monitoring tools (New Relic, ELK, Splunk).<br>• Experience in implementing SRE best practices, ensuring reliability, availability, and performance of cloud-native applications.<br>• Proficient in SLI/SLO definitions, error budgeting, and proactive incident management to optimize system performance.
 
 
 # 💻 Tech Stack:
